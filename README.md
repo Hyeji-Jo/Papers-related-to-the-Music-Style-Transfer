@@ -3,6 +3,7 @@
 ## 📌 Index
 [0. Paper list up](#📃-Paper-list-up)  
 [1. Music Style Transfer_A Position Paper](#1.-Music-Style-Transfer_A-Position-Paper)  
+[2. Symbolic Music Genre Transfer with CycleGAN](#2.-Symbolic-Music-Genre-Transfer-with-CycleGAN)  
 [4. Timbre-enhanced Multi-modal Music Style Transfer](#4.-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
 
   
@@ -22,8 +23,16 @@
 ## 1. Music Style Transfer_A Position Paper
 > 음악 스타일 변환은 음색 변환, 연주 스타일 변환, 작곡 스타일 변환 3가지로 구성되어 있으며, 각각에 대한 정보 존재  
 
-[Music Style Transfer: A Position Paper_Summary 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/1bc603061cc66a20fc3a4fd0d7310215c4aaa5e6/Music%20Style%20Transfer%3A%20A%20Position%20Paper_Summary)
+[Music Style Transfer: A Position Paper 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/1bc603061cc66a20fc3a4fd0d7310215c4aaa5e6/Music%20Style%20Transfer%3A%20A%20Position%20Paper_Summary)
   
+
+
+## 2. Symbolic Music Genre Transfer with CycleGAN
+> 이미지 스타일 변환으로 가장 성공한 GAN의 음악 장르 변환 실현 가능성 연구
+> 음악 음성이 아닌 재즈, 클래식, 팝의 MIDI 데이터를 활용하여 음악 장르 A에서 B로의 양방향 장르 변환 모델 구축
+
+[Symbolic Music Genre Transfer with CycleGAN 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/f9ffe3261d57d46ed2893f71b4b68212b8685284/Symbolic%20Music%20Genre%20Transfer%20with%20CycleGAN_Summary)  
+
   
   
 ## 4. Timbre-enhanced Multi-modal Music Style Transfer
