@@ -17,4 +17,4 @@
 ## 4. Timbre-enhanced Multi-modal Music Style Transfer
 > 비지도 이미지 변환 프레임워크인 MUNIT과 상대론적 평균 GAN인 RaGAN을 활용하여 서로 다른 장르간 양방향 스타일 변화 작업에 대한 실험 수행
 
-자세히🔖 [Timbre-enhanced Multi-modal Music Style Transfer 요약 페이지](https://github.com/Hyeji-Jo/arreglo_paper_search/blob/main/Play%20as%20You%20Like%3A%20Timbre-Enhanced%20Multi-Modal%20Music%20Style%20Transfer_%20summary)
+자세히🔎 [Timbre-enhanced Multi-modal Music Style Transfer 요약 페이지](https://github.com/Hyeji-Jo/arreglo_paper_search/blob/main/Play%20as%20You%20Like%3A%20Timbre-Enhanced%20Multi-Modal%20Music%20Style%20Transfer_%20summary)
