@@ -2,7 +2,7 @@
 
 ## 📌 Index
 [0. Paper list up](#📃-Paper-list-up)  
-[1. Music Style Transfer: A Position Paper](#1.-Music-Style-Transfer:-A-Position-Paper)  
+[1. Music Style Transfer_A Position Paper](#1.-Music-Style-Transfer_A-Position-Paper)  
 [4. Timbre-enhanced Multi-modal Music Style Transfer](#4.-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
 
 
@@ -15,7 +15,7 @@
 |[Timbre-enhanced Multi-modal Music Style Transfer](https://arxiv.org/pdf/1811.12214.pdf)|TAAI(International Conference on Technologies and Applications of Artificial Intelligence)|2020||
 
   
-## 1. Music Style Transfer: A Position Paper
+## 1. Music Style Transfer_A Position Paper
 > 음악 스타일 변환은 음색 변환, 연주 스타일 변환, 작곡 스타일 변환 3가지로 구성되어 있으며, 각각에 대한 정보 존재  
 
 [Music Style Transfer: A Position Paper_Summary 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/1bc603061cc66a20fc3a4fd0d7310215c4aaa5e6/Music%20Style%20Transfer%3A%20A%20Position%20Paper_Summary)
