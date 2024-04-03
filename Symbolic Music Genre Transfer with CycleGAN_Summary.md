@@ -48,7 +48,7 @@
 
 ## Result  
 - 성능을 평가하는 것은 매우 주관적 척도  
-- cross-entropy loss로 분류기 최적화
+- cross-entropy loss로 분류기 최적화  
   <img src = "https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/5c6937d6-9bbc-48ed-ada5-fe32d4fcc6ad.png" width="70%" height="70%">  
 - 재즈와 클래식 사이는 88.89%, 클래식과 팝 사이는 84.66%이지만 재즈와 팝 사이의 분류기 성능은 현저히 낮음  
 - 음정만을 고려할 때 두 장르가 유사하다는 것을 의미  
