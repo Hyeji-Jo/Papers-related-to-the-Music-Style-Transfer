@@ -1,11 +1,11 @@
 # Music style transfer 관련 논문 리뷰
 
 ## 📌 Index
-[0. Paper list up](##-📃-Paper-list-up)  
-[1. Music Style Transfer_A Position Paper](##-1.-Music-Style-Transfer_A-Position-Paper)  
-[2. Symbolic Music Genre Transfer with CycleGAN](##-2.-Symbolic-Music-Genre-Transfer-with-CycleGAN)  
-[3. Music Style Transfer with Vocals Based on CycleGAN](##-3.-Music-Style-Transfer-with-Vocals-Based-on-CycleGAN)  
-[4. Timbre-enhanced Multi-modal Music Style Transfer](##-4.-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
+[0. Paper list up](#📃-Paper-list-up)  
+[1. Music Style Transfer_A Position Paper](#1.-Music-Style-Transfer_A-Position-Paper)  
+[2. Symbolic Music Genre Transfer with CycleGAN](#2.-Symbolic-Music-Genre-Transfer-with-CycleGAN)  
+[3. Music Style Transfer with Vocals Based on CycleGAN](#3.-Music-Style-Transfer-with-Vocals-Based-on-CycleGAN)  
+[4. Timbre-enhanced Multi-modal Music Style Transfer](#4.-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
 
   
   
