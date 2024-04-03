@@ -6,7 +6,7 @@
 [2. Symbolic Music Genre Transfer with CycleGAN](#2️⃣-Symbolic-Music-Genre-Transfer-with-CycleGAN)  
 [3. Music Style Transfer with Vocals Based on CycleGAN](#3️⃣-Music-Style-Transfer-with-Vocals-Based-on-CycleGAN)  
 [4. Timbre-enhanced Multi-modal Music Style Transfer](#4️⃣-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
-
+  
   
   
   
