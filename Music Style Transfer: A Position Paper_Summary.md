@@ -47,7 +47,4 @@
 ## Author Information  
 - Shuqi Dai, Zheng Zhang, Gus G. Xia  
 
-<br/>
-
-## [Github Implementation](https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer)
 
