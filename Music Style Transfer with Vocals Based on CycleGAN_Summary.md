@@ -16,29 +16,29 @@
    
 
 ## Method  
-**1. CycleGAN ** 
+**1. CycleGAN**   
   - 2개의 생성기와 2개의 판별기를 포함하고 있는 비지도 생성형 네트워크  
   - 페어링 된 데이터 없이 두 도메인 간 매핑을 학습할 수 있음  
   - 생성기는 노이즈를 입력으로 받지 않고 도메인 샘플을 입력받음  
   - Zhu et al.이 제안한 동일성 손실 함수와 cycle consistency loss 사용  
   - 본 논문에서는 비선형 attenuation 모델을 사용하여 견고한 모델 생성  
   - Deconvolution 대신 이웃 보간법과 일반 컨볼루션 사용  
-**2. CQT  **
+**2. CQT**  
   - 낮은 주파수 영역에서는 좁은 대역폭을 가지고, 높은 주파수의 영역에서는 넓은 대역폭을 가짐  
   - 인간은 낮은 주파수 영역의 소리에 더 민감하기에 낮은 주파수 대역폭을 고해상도로 분석하는 것이 인간의 청각 시스템 반영  
-**3. Mel-Spectrogram   **
+**3. Mel-Spectrogram**  
   - Spectrogram이 Mel-Spectrogram으로 변환되면 인간의 귀의 주파수에 대한 인식이 선형적으로 변경됨  
   - 이러면 특징 추출과 처리가 쉬워짐  
-**4. WaveNet  **
+**4. WaveNet**  
   - 오디오의 파형을 생성하는 생성형 모델  
   - causal convolution과 dilated convolution의 아이디어를 채택  
   
 
 ## Experiment setup  
-**- Dataset  **
+**- Dataset**  
   - 미디엄 버전의 무료 음악(길이가 30초이며 샘플링 속도가 22050인 25000개의 클립)  
   - 팝, 블루스, 포크, 재즈, 컨트리, 클래식 6가지의 카테고리  
-**- Baseline  **
+**- Baseline**  
   - 오디오의 Mel-Spectrogram과 CQT 특징 추출  
   - 추출된 Mel-Spectrogram과 CQT 특징을 두 개의 레이어로 병합하여 입력  
   - 이 두 개의 레이어를 사전훈련된 WaveNet 디코더에 입력하여 오디오 생성  
