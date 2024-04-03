@@ -30,7 +30,8 @@
  - 피아노 솔로, 기타 솔로 및 현악 4중주의 세 가지 다른 장르 간의 양방향 스타일 전송 작업에 대한 실험을 수행  
  
 **- Baseline**  
- - MUNIT 프레임 워크, RaGAN  
+ - MUNIT 프레임 워크, RaGAN
+   ![모델](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/1290be01-9421-4756-bc26-43966d35da89)
  
 **- Evaluation Metric**  
  - 고유 일관성 손실이라는 새로운 손실 함수를 도입  
