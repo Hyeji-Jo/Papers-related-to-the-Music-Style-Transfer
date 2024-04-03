@@ -41,7 +41,7 @@
 > 음악 오디오의 Mel-Spectrogram과 CQT 특징 추출하여 CycleGAN 모델로 도메인 변환을 수행하고 사전훈련된 WaveNet 디코더에 입력하여 오디오 생성
 > 기존의 보컬이 없는 음악들을 활용한 연구들과 달리 보컬이 존재하는 음악을 활용하였으며, 비선형 attenuation 모델을 사용하여 견고한 모델 생성
 
-[Music Style Transfer with Vocals Based on CycleGAN 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/5c5ae3b3b154b45dafc926e3e59c6d3b6346038c/Music%20Style%20Transfer%20with%20Vocals%20Based%20on%20CycleGAN_Summary)   
+[Music Style Transfer with Vocals Based on CycleGAN 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/f731efab8428b3ad09808a4a92f457e66b8b471d/Music%20Style%20Transfer%20with%20Vocals%20Based%20on%20CycleGAN_Summary.md)   
 
 <br/>
   
