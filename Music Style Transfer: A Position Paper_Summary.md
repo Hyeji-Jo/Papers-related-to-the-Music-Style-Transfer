@@ -6,7 +6,7 @@
 ## Problem Definition  
 - 이미지 스타일 변환처럼 모든 음악의 특성(음색, 연주 스타일 등)을 한 번에 처리하는 것은 좋지 않은 결과 초래  
 - 음악 스타일은 조성, 코드, 소리 질감, 음색과 같이 다양한 특성을 포함한 모호한 용어  
-<img src="https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/fab0d4cc-3106-4296-aec1-e60dea3cb85a.png"  width="30%" height="30%"/>
+<img src="https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/fab0d4cc-3106-4296-aec1-e60dea3cb85a.png"  width="50%" height="50%"/>
 <br/>
 
 ## Result  
