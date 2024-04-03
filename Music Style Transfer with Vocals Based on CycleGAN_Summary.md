@@ -49,14 +49,16 @@
 **- Baseline**  
   - 오디오의 Mel-Spectrogram과 CQT 특징 추출  
   - 추출된 Mel-Spectrogram과 CQT 특징을 두 개의 레이어로 병합하여 입력  
-  - 이 두 개의 레이어를 사전훈련된 WaveNet 디코더에 입력하여 오디오 생성  
+  - 이 두 개의 레이어를 사전훈련된 WaveNet 디코더에 입력하여 오디오 생성
+  ![모델](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/75e0350f-9fa3-42e5-995e-7bb9a04723b3)
 
 <br/>
 
 ## Result  
 - 음악 생성 시스템의 성능을 평가하는 것은 주관적인 척도  
 - 스타일 및 도메인 변환을 평가하는 것은 분류기를 통해 진행하기에 조금 더 간단  
-- 변환된 음악 영역의 각 샘플에서 무작위로 30개의 음악 클립을 선택해 오디오 품질률과 스타일 변환율을 평가 지표로서 사용  
+- 변환된 음악 영역의 각 샘플에서 무작위로 30개의 음악 클립을 선택해 오디오 품질률과 스타일 변환율을 평가 지표로서 사용
+  <img src ="https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/54bf9be0-73d3-425a-a5f6-8760a0198dfd.png" width="70%" height="70%">
 - 선형 attenuation 모델을 사용하였을 때 보다 비선형 attenuation 모델을 사용했을 때, 스타일 변환율이 더 좋음  
 - 또한 오디오 품질률이 82.86%로서 보컬이 있는 음악 처리에서도 좋은 결과를 보여줬다고 할 수 있음  
 
