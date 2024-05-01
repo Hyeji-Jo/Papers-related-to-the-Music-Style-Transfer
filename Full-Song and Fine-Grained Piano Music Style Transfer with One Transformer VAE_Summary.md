@@ -25,7 +25,8 @@
 ## Method  
 - MIDI 파일은 음악 작품의 템포(분당 비트 수 또는 bpm), 타임 시그니처(예: 3/4, 4/4, 6/8 등), 각 음의 시작 및 해제 타임스탬프 및 속도(예: 음량)를 저장  
 - REMI(Revamed MIDI-derived events) : 음악의 고유한 시간 단위, 즉 막대와 비트를 통합  
-- Pre-attention, In-attention, Post-attention 3가지 사용  
+- Pre-attention, In-attention, Post-attention 3가지 사용
+  
 **- Pre-attention**  
   - 세그먼트 수준 조건은 모든 attention layer 이전에 한 번만 트랜스포머 디코더에 들어감  
   - BERT의 세그먼트 임베딩이 토큰 임베딩과 직접 합산되는 점을 제외하고는 방법론적으로 유사  
