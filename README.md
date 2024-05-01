@@ -19,7 +19,7 @@
 |[Symbolic Music Genre Transfer with CycleGAN](https://arxiv.org/pdf/1809.07575.pdf)|ICTAI(International Conference on Tools with Artificial Intelligence)|2018||
 |[Music Style Transfer with Vocals Based on CycleGAN](https://iopscience.iop.org/article/10.1088/1742-6596/1631/1/012039)|ICAICS(2nd International Conference on Artificial Intelligence and Computer Science)|2020||
 |[Timbre-enhanced Multi-modal Music Style Transfer](https://arxiv.org/pdf/1811.12214.pdf)|TAAI(International Conference on Technologies and Applications of Artificial Intelligence)|2020||
-|[MuseMorphose: Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE]| |2022|[Github Implementation](https://github.com/YatingMusic/MuseMorphose)|
+|[MuseMorphose: Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](https://arxiv.org/pdf/2105.04090)|TASLP(IEEE/ACM Transactions on Audio, Speech, and Language Processing)|2022|[Github Implementation](https://github.com/YatingMusic/MuseMorphose)|
 
 <br/><br/>
   
