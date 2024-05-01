@@ -7,6 +7,7 @@
 [2. Symbolic Music Genre Transfer with CycleGAN](#2️⃣-Symbolic-Music-Genre-Transfer-with-CycleGAN)  
 [3. Music Style Transfer with Vocals Based on CycleGAN](#3️⃣-Music-Style-Transfer-with-Vocals-Based-on-CycleGAN)  
 [4. Timbre-enhanced Multi-modal Music Style Transfer](#4️⃣-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
+[5. Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](#5️⃣-Full-Song-and-Fine-Grained-Piano-Music-Style-Transfer-with-One-Transformer-VAE)  
   
 <br/><br/>
   
@@ -18,6 +19,7 @@
 |[Symbolic Music Genre Transfer with CycleGAN](https://arxiv.org/pdf/1809.07575.pdf)|ICTAI(International Conference on Tools with Artificial Intelligence)|2018||
 |[Music Style Transfer with Vocals Based on CycleGAN](https://iopscience.iop.org/article/10.1088/1742-6596/1631/1/012039)|ICAICS(2nd International Conference on Artificial Intelligence and Computer Science)|2020||
 |[Timbre-enhanced Multi-modal Music Style Transfer](https://arxiv.org/pdf/1811.12214.pdf)|TAAI(International Conference on Technologies and Applications of Artificial Intelligence)|2020||
+|[MuseMorphose: Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE]| |2022|[Github Implementation](https://github.com/YatingMusic/MuseMorphose)|
 
 <br/><br/>
   
@@ -49,5 +51,12 @@
 > 비지도 이미지 변환 프레임워크인 MUNIT과 상대론적 평균 GAN인 RaGAN을 활용하여 서로 다른 장르 간 양방향 스타일 변화 작업에 대한 실험 수행  
 
 [Timbre-enhanced Multi-modal Music Style Transfer 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/d57a25cfe7b6e00b6e90725ed08f14ccb54fe108/Play%20as%20You%20Like%3A%20Timbre-Enhanced%20Multi-Modal%20Music%20Style%20Transfer_%20Summary.md)  
+
+<br/>
+  
+## 5️⃣ Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE  
+> 
+
+[Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE 요약 페이지🔎]()  
 
 <br/>
