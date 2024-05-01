@@ -7,7 +7,8 @@
 [2. Symbolic Music Genre Transfer with CycleGAN](#2️⃣-Symbolic-Music-Genre-Transfer-with-CycleGAN)  
 [3. Music Style Transfer with Vocals Based on CycleGAN](#3️⃣-Music-Style-Transfer-with-Vocals-Based-on-CycleGAN)  
 [4. Timbre-enhanced Multi-modal Music Style Transfer](#4️⃣-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
-[5. Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](#5️⃣-Full-Song-and-Fine-Grained-Piano-Music-Style-Transfer-with-One-Transformer-VAE)  
+[5. Self-Supervised VQ-VAE for One-Shot Music Style Transfer](#5️⃣-Self-Supervised-VQ-VAE-for-One-Shot-Music-Style-Transfer)  
+[6. Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](#6️⃣-Full-Song-and-Fine-Grained-Piano-Music-Style-Transfer-with-One-Transformer-VAE)  
   
 <br/><br/>
   
@@ -19,7 +20,9 @@
 |[Symbolic Music Genre Transfer with CycleGAN](https://arxiv.org/pdf/1809.07575.pdf)|ICTAI(International Conference on Tools with Artificial Intelligence)|2018||
 |[Music Style Transfer with Vocals Based on CycleGAN](https://iopscience.iop.org/article/10.1088/1742-6596/1631/1/012039)|ICAICS(2nd International Conference on Artificial Intelligence and Computer Science)|2020||
 |[Timbre-enhanced Multi-modal Music Style Transfer](https://arxiv.org/pdf/1811.12214.pdf)|TAAI(International Conference on Technologies and Applications of Artificial Intelligence)|2020||
+|[Self-Supervised VQ-VAE for One-Shot Music Style Transfer](https://arxiv.org/pdf/2102.05749)|ICASSP(IEEE International Conference on Acoustics, Speech and Signal Processing)|2021|[Github Implementation](https://github.com/cifkao/ss-vq-vae)|
 |[MuseMorphose: Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](https://arxiv.org/pdf/2105.04090)|TASLP(IEEE/ACM Transactions on Audio, Speech, and Language Processing)|2022|[Github Implementation](https://github.com/YatingMusic/MuseMorphose)|
+
 
 <br/><br/>
   
@@ -54,7 +57,14 @@
 
 <br/>
   
-## 5️⃣ Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE  
+## 5️⃣ Self-Supervised VQ-VAE for One-Shot Music Style Transfer
+> 
+
+[Self-Supervised VQ-VAE for One-Shot Music Style Transfer 요약 페이지🔎]()  
+
+<br/>
+  
+## 6️⃣ Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE  
 > 
 
 [Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE 요약 페이지🔎]()  
