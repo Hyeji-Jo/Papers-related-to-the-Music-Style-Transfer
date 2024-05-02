@@ -28,15 +28,14 @@
 
 ![attention](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/fbe7aba9-8972-43fe-ad15-f5b78ed7dff0)
 - Pre-attention, In-attention, Post-attention 3가지 사용
-  
 **- Pre-attention**  
-  - 세그먼트 수준 조건은 모든 attention layer 이전에 한 번만 트랜스포머 디코더에 들어감  
-  - BERT의 세그먼트 임베딩이 토큰 임베딩과 직접 합산되는 점을 제외하고는 방법론적으로 유사  
+    - 세그먼트 수준 조건은 모든 attention layer 이전에 한 번만 트랜스포머 디코더에 들어감  
+    - BERT의 세그먼트 임베딩이 토큰 임베딩과 직접 합산되는 점을 제외하고는 방법론적으로 유사  
 **- In-attention**  
-  - 트랜스포머 디코더에게 셀프 attention layer 전체의 세그먼트 레벨 조건을 더 자주 알려줌  
-  - 세그먼트 수준 조건을 복사하여 곳곳에 붙여넣음으로써 트랜스포머에 미치는 영향을 더욱 확대할 수 있을것으로 기대  
+    - 트랜스포머 디코더에게 셀프 attention layer 전체의 세그먼트 레벨 조건을 더 자주 알려줌  
+    - 세그먼트 수준 조건을 복사하여 곳곳에 붙여넣음으로써 트랜스포머에 미치는 영향을 더욱 확대할 수 있을것으로 기대  
 **- Post-attention**  
-  - 위의 두 메커니즘과 달리 세크먼트 임베딩이 자체 attention layer와 상호 작용하지 않음  
+    - 위의 두 메커니즘과 달리 세크먼트 임베딩이 자체 attention layer와 상호 작용하지 않음  
 
   
 - 12-layer Transformer-XL 채택  
