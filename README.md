@@ -8,7 +8,8 @@
 [3. Music Style Transfer with Vocals Based on CycleGAN](#3️⃣-Music-Style-Transfer-with-Vocals-Based-on-CycleGAN)  
 [4. Timbre-enhanced Multi-modal Music Style Transfer](#4️⃣-Timbre-enhanced-Multi-modal-Music-Style-Transfer)  
 [5. Self-Supervised VQ-VAE for One-Shot Music Style Transfer](#5️⃣-Self-Supervised-VQ-VAE-for-One-Shot-Music-Style-Transfer)  
-[6. Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](#6️⃣-Full-Song-and-Fine-Grained-Piano-Music-Style-Transfer-with-One-Transformer-VAE)  
+[6. Actions Speak Louder than Listening: Evaluating Music Style Transfer based on Editing Experience](#6️⃣-Evaluating-Music-Style-Transfer-based-on-Editing-Experience)  
+[7. Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](#6️⃣-Full-Song-and-Fine-Grained-Piano-Music-Style-Transfer-with-One-Transformer-VAE)  
   
 <br/><br/>
   
@@ -21,6 +22,7 @@
 |[Music Style Transfer with Vocals Based on CycleGAN](https://iopscience.iop.org/article/10.1088/1742-6596/1631/1/012039)|ICAICS(2nd International Conference on Artificial Intelligence and Computer Science)|2020||
 |[Timbre-enhanced Multi-modal Music Style Transfer](https://arxiv.org/pdf/1811.12214.pdf)|TAAI(International Conference on Technologies and Applications of Artificial Intelligence)|2020||
 |[Self-Supervised VQ-VAE for One-Shot Music Style Transfer](https://arxiv.org/pdf/2102.05749)|ICASSP(IEEE International Conference on Acoustics, Speech and Signal Processing)|2021|[Github Implementation](https://github.com/cifkao/ss-vq-vae)|
+|[Actions Speak Louder than Listening: Evaluating Music Style Transfer based on Editing Experience](https://arxiv.org/pdf/2110.12855)|29th ACM International Conference on Multimedia|2021|[Github Implementation](https://github.com/s603122001/Bidirectional-Music-Style-Transformer)|
 |[MuseMorphose: Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE](https://arxiv.org/pdf/2105.04090)|TASLP(IEEE/ACM Transactions on Audio, Speech, and Language Processing)|2022|[Github Implementation](https://github.com/YatingMusic/MuseMorphose)|
 
 
@@ -58,14 +60,23 @@
 <br/>
   
 ## 5️⃣ Self-Supervised VQ-VAE for One-Shot Music Style Transfer
-> 
+> VQ-VAE 모델을 활용한 음악 스타일 변화 작업을 수행했지만 출력물의 음질이 완벽하지 않음
+> WaveNet과 같은 표현력있는 디코더 사용시 다양한 악기들의 성능 향상 및 작곡 스타일 변환과 같은 더 어려운 스타일 변화도 가능할것으로 생각
 
 [Self-Supervised VQ-VAE for One-Shot Music Style Transfer 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/main/Self-Supervised%20VQ-VAE%20for%20One-Shot%20Music%20Style%20Transfer_Summary.md)  
 
 <br/>
   
-## 6️⃣ Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE  
+## 6️⃣ Evaluating Music Style Transfer based on Editing Experience
 > 
+
+[Evaluating Music Style Transfer based on Editing Experience 요약 페이지🔎]()  
+
+<br/>
+  
+## 7️⃣ Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE  
+> VAE 모델에 Transformer의 Attention 매커니즘을 추가하여 모델링
+> 3가지의 Attention 매커니즘을 비교해본 결과 in-attention의 경우 결과가 가장 좋음
 
 [Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/main/Full-Song%20and%20Fine-Grained%20Piano%20Music%20Style%20Transfer%20with%20One%20Transformer%20VAE_Summary.md)  
 
