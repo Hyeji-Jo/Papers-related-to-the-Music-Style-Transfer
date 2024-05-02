@@ -67,6 +67,6 @@
 ## 6️⃣ Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE  
 > 
 
-[Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE 요약 페이지🔎]()  
+[Full-Song and Fine-Grained Piano Music Style Transfer with One Transformer VAE 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/main/Full-Song%20and%20Fine-Grained%20Piano%20Music%20Style%20Transfer%20with%20One%20Transformer%20VAE_Summary.md)  
 
 <br/>
