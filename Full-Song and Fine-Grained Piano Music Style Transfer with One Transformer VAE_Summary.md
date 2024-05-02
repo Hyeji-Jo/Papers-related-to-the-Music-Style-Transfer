@@ -27,8 +27,7 @@
 - REMI(Revamed MIDI-derived events) : 음악의 고유한 시간 단위, 즉 막대와 비트를 통합
 
 ![attention](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/fbe7aba9-8972-43fe-ad15-f5b78ed7dff0)
-- Pre-attention, In-attention, Post-attention 3가지 사용
-  
+- Pre-attention, In-attention, Post-attention 3가지 사용  
 **- Pre-attention**  
   - 세그먼트 수준 조건은 모든 attention layer 이전에 한 번만 트랜스포머 디코더에 들어감  
   - BERT의 세그먼트 임베딩이 토큰 임베딩과 직접 합산되는 점을 제외하고는 방법론적으로 유사  
