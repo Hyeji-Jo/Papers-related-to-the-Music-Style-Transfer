@@ -24,9 +24,10 @@
 
 ## Method  
 - MIDI 파일은 음악 작품의 템포(분당 비트 수 또는 bpm), 타임 시그니처(예: 3/4, 4/4, 6/8 등), 각 음의 시작 및 해제 타임스탬프 및 속도(예: 음량)를 저장  
-- REMI(Revamed MIDI-derived events) : 음악의 고유한 시간 단위, 즉 막대와 비트를 통합  
-- Pre-attention, In-attention, Post-attention 3가지 사용
-  
+- REMI(Revamed MIDI-derived events) : 음악의 고유한 시간 단위, 즉 막대와 비트를 통합
+
+![attention](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/fbe7aba9-8972-43fe-ad15-f5b78ed7dff0)
+- Pre-attention, In-attention, Post-attention 3가지 사용  
 **- Pre-attention**  
   - 세그먼트 수준 조건은 모든 attention layer 이전에 한 번만 트랜스포머 디코더에 들어감  
   - BERT의 세그먼트 임베딩이 토큰 임베딩과 직접 합산되는 점을 제외하고는 방법론적으로 유사
@@ -38,11 +39,12 @@
 **- Post-attention**  
   - 위의 두 메커니즘과 달리 세크먼트 임베딩이 자체 attention layer와 상호 작용하지 않음  
   
-- 12-layer Transformer-XL 채택
-- Adam optimizer 활용
-- K=32
-- 처음 500개의 훈련 단계에서 학습 속도를 0에서 2x10-4까지 선형적으로 올려가며, 그 후 코사인 학습 속도 감소(600,000단계)를 사용
+- 12-layer Transformer-XL 채택  
+- Adam optimizer 활용  
+- K=32  
+- 처음 500개의 훈련 단계에서 학습 속도를 0에서 2x10-4까지 선형적으로 올려가며, 그 후 코사인 학습 속도 감소(600,000단계)를 사용  
 - 각 모델은 약 20개의 에포크 동안 배치 크기가 4개인 엔비디아 테슬라 V100 GPU(32GB 메모리 포함)에서 훈련되며, 이는 2일이 소요
+![model](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/45945ff5-04d3-45bb-94f6-0fd74905012b)
    
 <br/>
 
@@ -67,7 +69,9 @@
 
 ## Result  & Conclusion  
 - 검증 세트의 고유한 노래의 막대 수준 조건을 사용하여 각각 425개의 재창조에 대한 점수 계산  
-- 비교를 위해 모델이 처음부터 400개의 32마디 조각을 무작위로 생성하도록 하고, 훈련 세트에서 추출한 400개의 무작위 조각 쌍에 대해 점수가 계산되는 무작위 기준선을 추가로 포함  
+- 비교를 위해 모델이 처음부터 400개의 32마디 조각을 무작위로 생성하도록 하고, 훈련 세트에서 추출한 400개의 무작위 조각 쌍에 대해 점수가 계산되는 무작위 기준선을 추가로 포함
+
+![attention_result](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/fbd94e6c-d1fc-4f39-9d2d-aba4efb7be53)
 - In-attention이 세그먼트 수준의 시간 변화 조건을 가진 트랜스포머 디코더를 제어하는 데 결과가 가장 효과적  
 
 <br/>
