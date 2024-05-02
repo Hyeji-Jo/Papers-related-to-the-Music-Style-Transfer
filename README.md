@@ -60,7 +60,7 @@
 ## 5️⃣ Self-Supervised VQ-VAE for One-Shot Music Style Transfer
 > 
 
-[Self-Supervised VQ-VAE for One-Shot Music Style Transfer 요약 페이지🔎]()  
+[Self-Supervised VQ-VAE for One-Shot Music Style Transfer 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/main/Self-Supervised%20VQ-VAE%20for%20One-Shot%20Music%20Style%20Transfer_Summary.md)  
 
 <br/>
   
