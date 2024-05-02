@@ -19,7 +19,8 @@
   - 이산 잠재 표현을 가진 자동 인코더  
   - 인코딩할 수 있는 정보의 양에 제한 존재  
   - 입력와 디코더의 출력 사이 재구성 오류 Lae 최소화  
-  
+
+![VQ-VAE](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/4fdec9a3-a465-4441-bc60-432e47007d82)
 - 콘텐츠 입력 x와 스타일 입력 y 2개의 입력을 출력에 매핑하는 목표를 고려  
   - 두 개의 인코더(입력마다 하나씩)와 단일 디코더로 인코더-디코더 모델을 정의  
   
@@ -47,7 +48,9 @@
     - Pitch : MELLODIA 알고리즘을 활용하여 피치 윤곽을 추출하여 두 피치 세트 간의 불일치를 자카드 거리로 표현  
   - 스타일 적합  
     - 출력이 목표 음색에 얼마나 잘 맞는지  
-    - Timbre : MFCC(Mel-frequency cepstral coefficients)를 활용하여 단일 비유사성 점수 출력  
+    - Timbre : MFCC(Mel-frequency cepstral coefficients)를 활용하여 단일 비유사성 점수 출력
+
+![result](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/assets/61963922/7e5ec4fe-7360-4815-a630-c687351b3dba)
 - 그 결과 Ulyanov and Lebedev 알고리즘과 Musaicing 알고리즘 보다 결과가 좋음  
 
 
