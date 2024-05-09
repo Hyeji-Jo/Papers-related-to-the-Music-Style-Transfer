@@ -60,17 +60,18 @@
 <br/>
   
 ## 5️⃣ Self-Supervised VQ-VAE for One-Shot Music Style Transfer
-> VQ-VAE 모델을 활용한 음악 스타일 변화 작업을 수행했지만 출력물의 음질이 완벽하지 않음
-> WaveNet과 같은 표현력 있는 디코더 사용 시 다양한 악기들의 성능 향상 및 작곡 스타일 변환과 같은 더 어려운 스타일 변화도 가능할 것으로 생각
+> VQ-VAE 모델을 활용한 음악 스타일 변화 작업을 수행했지만 출력물의 음질이 완벽하지 않음  
+> WaveNet과 같은 표현력 있는 디코더 사용 시 다양한 악기들의 성능 향상 및 작곡 스타일 변환과 같은 더 어려운 스타일 변화도 가능할 것으로 생각  
 
 [Self-Supervised VQ-VAE for One-Shot Music Style Transfer 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/main/Self-Supervised%20VQ-VAE%20for%20One-Shot%20Music%20Style%20Transfer_Summary.md)  
 
 <br/>
   
 ## 6️⃣ Evaluating Music Style Transfer based on Editing Experience
-> 
+> 설문지 기반 청취 테스트를 통해 결과를 도출한 기존 연구들과 달리 작곡가, 편곡자, 음악 제작자의 관점에서 연구 평가
+> BMST 기본 모델과 거기에 attention 메커니즘, 상대 위치 임베딩, CVAR의 절대 피치 학습을 더해 만든 모델의 비교 실험 수행
 
-[Evaluating Music Style Transfer based on Editing Experience 요약 페이지🔎]()  
+[Evaluating Music Style Transfer based on Editing Experience 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/blob/main/Actions%20Speak%20Louder%20than%20Listening:%20Evaluating%20Music%20Style%20Transfer%20based%20on%20Editing%20Experience_Summary.md)  
 
 <br/>
   
