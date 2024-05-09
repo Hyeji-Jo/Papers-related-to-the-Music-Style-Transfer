@@ -86,8 +86,9 @@
 <br/>
   
 ## 8️⃣ Can Machines Generate Personalized Music? A Hybrid Favorite-aware Method for User Preference Music Transfer  
+> 사용자가 가장 좋아하는 음악에서 추출된 음악 패턴을 기반으로 사용자 선호 음악 변환 모델(UPMT) 구축
+> 사용자 선호도 트랜스포머(UP-Transformer) 모델을 베이스 모델로 채택하여 선호도 인식 손실 함수 같은 미세 조정 진행  
 
-
-[Can Machines Generate Personalized Music? A Hybrid Favorite-aware Method for User Preference Music Transfer 요약 페이지🔎]()  
+[Can Machines Generate Personalized Music? A Hybrid Favorite-aware Method for User Preference Music Transfer 요약 페이지🔎](https://github.com/Hyeji-Jo/Papers-related-to-the-Music-Style-Transfer/tree/main)  
 
 <br/>
